@@ -1,8 +1,6 @@
 .odd{
-    background-color: lightpink;
+    background-color: rgb(255, 166, 179); 
     font-family: Verdana, sans-serif;
-    font:bolder;
-
 }
 #blue{
     color:blue;
@@ -12,7 +10,7 @@
     font-size: 24px;
 }
 .fourth{
-    background-color:lightgreen;
+    background-color:rgb(144, 238, 144);
     font-size: 24px;
     font:bold;
 }
