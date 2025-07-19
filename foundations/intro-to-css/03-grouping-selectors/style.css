@@ -1,0 +1,16 @@
+.common{
+    font-family: Helvetica,'Times New Roman', sans-serif;
+    font-size: 28px;
+    border-left-color: grey ;
+    border-right-color: black;
+    border-top-color: grey;
+    border-bottom-color: black;
+}
+.one{
+    color: white;
+    background-color: black;
+   
+}
+.two{
+    background-color: yellow;
+}
